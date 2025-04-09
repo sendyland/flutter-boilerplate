@@ -30,20 +30,14 @@ lib/
 
 ## 🔧 Cara Menggunakan
 
-1. **Clone repo ini**
-
-````bash
+```bash
+# 1. Clone repo ini
 git clone https://github.com/username/flutter-boilerplate.git
 cd flutter-boilerplate
 
-2. **Install dependencies**
-
-```bash
+# 2. Install dependencies
 flutter pub get
 
-3. **Jalankan Aplikasi**
-
-```bash
+# 3. Jalankan Aplikasi
 flutter run
-
-````
+```
