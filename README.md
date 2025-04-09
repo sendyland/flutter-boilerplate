@@ -34,7 +34,7 @@ lib/
 
 ```bash
 # 1. Clone repo ini
-git clone [https://github.com/username/flutter-boilerplate.git](https://github.com/sendyland/flutter-boilerplate.git)
+git clone https://github.com/username/flutter-boilerplate.git
 cd flutter-boilerplate
 
 # 2. Install dependencies
