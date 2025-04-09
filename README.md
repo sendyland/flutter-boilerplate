@@ -15,18 +15,20 @@ Boilerplate Flutter sederhana dan terstruktur untuk memulai pengembangan aplikas
 
 ---
 
-## 📁 Struktur Proyek
+## 📁 Struktur Folder
 
+```bash
 lib/
-├── config/ # Theme dan konfigurasi global
-├── models/ # Model data
-├── providers/ # State management (optional)
-├── routes/ # Navigasi dan routing
-├── screens/ # Semua halaman aplikasi
-├── services/ # Integrasi API dan servis lainnya
-├── utils/ # Constant, helper, dll
-├── widgets/ # Widget custom reusable
-└── main.dart # Entry point aplikasi
+├── config/          # Theme dan konfigurasi global
+├── models/          # Model data
+├── providers/       # State management (optional)
+├── routes/          # Navigasi dan routing
+├── screens/         # Semua halaman aplikasi
+├── services/        # Integrasi API dan servis lainnya
+├── utils/           # Constant, helper, dll
+├── widgets/         # Widget custom reusable
+└── main.dart        # Entry point aplikasi
+```
 
 ## 🔧 Cara Menggunakan
 
